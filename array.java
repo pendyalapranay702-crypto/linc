@@ -8,6 +8,20 @@ public class Main {
     cars.add("BMW");
     cars.add("Ford");
     cars.add("Mazda");
+     cars.add("Volvo");
+    cars.add("BMW");
+    cars.add("Ford");
+    cars.add("Mazda" cars.add("Volvo");
+    cars.add("BMW");
+    cars.add("Ford");
+    cars.add("Mazda"
+              cars.add("Volvo");
+    cars.add("BMW");
+    cars.add("Ford");
+    cars.add("Mazda" cars.add("Volvo");
+    cars.add("BMW");
+    cars.add("Ford");
+    cars.add("Mazda"
 
     // Get an iterator for the ArrayList
     Iterator<String> it = cars.iterator();
